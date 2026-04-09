@@ -1,2 +1,1 @@
-# Exercicios
-sim
+# Exercicios aura + ego
